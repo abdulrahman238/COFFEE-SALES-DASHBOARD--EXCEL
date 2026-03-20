@@ -88,7 +88,4 @@ The goal is to uncover sales trends, customer behavior patterns, and product per
 
 ---
 
-## 📬 Contact
-For any questions or collaboration opportunities, feel free to reach out:  
-- **WhatsApp:** Chat with me  
-- **Email:** [abdulkassim2121@gmail.com](mailto:abdulkassim2121@gmail.com)  
+
