@@ -5,6 +5,9 @@ This project analyzes transaction records for a coffee shop operating across mul
 The goal is to uncover sales trends, customer behavior patterns, and product performance through data analysis and visualization.
 
 ---
+## Workflow Diagram
+This workflow turns raw coffee sales data into actionable business insights using Excel, Power Query, pivot tables, and dashboards.
+![Coffee Sales Dashboard](coffee_workflow.png)
 
 ## 📊 Dashboard Preview
 ![Coffee Sales Dashboard](./coofee%20sales%20.png)
