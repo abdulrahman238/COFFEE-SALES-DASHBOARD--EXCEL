@@ -7,6 +7,8 @@ The goal is to uncover sales trends, customer behavior patterns, and product per
 ---
 ## Workflow Diagram
 This workflow turns raw coffee sales data into actionable business insights using Excel, Power Query, pivot tables, and dashboards.
+---
+
 ![Coffee Sales Dashboard](coffee_workflow.png)
 
 ## 📊 Dashboard Preview
